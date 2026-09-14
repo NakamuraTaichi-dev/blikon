@@ -295,5 +295,7 @@ export const OTHER_PACKS: Record<string, { label: string; price: number }[]> = {
   ],
 };
 
+let a = 1;
+
 export const RFC_REGEX =
   /^[A-ZÑ&]{3,4}\d{2}(0[1-9]|1[0-2])(0[1-9]|[12]\d|3[01])[A-Z0-9]{2}[0-9A]$/i;
