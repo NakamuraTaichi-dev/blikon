@@ -1,3 +1,4 @@
+Your project is excellent, 
 # Folios Digitales Premium — Next.js
 
 Recreation of [portalfoliosdigitales.blikon.com](https://portalfoliosdigitales.blikon.com/) with Next.js 14 (App Router). Public flows: homepage, products, support tickets, checkout, system login, POS trial, and XML tools.
